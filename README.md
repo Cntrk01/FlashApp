@@ -4,6 +4,7 @@ Lokal için Room kütüphanesini kullandım.
 Uygulamada Hilt kütüphanesini kullanarak MVVM mimarisini destekleyen bir proje ortaya çıkarmaya çalıştım.
 Swipe Refresh Layout ile kullanıcı kaydırma yapınca verileri Retrofit aracılığıyla API'den istek atarak aldım.
 Filtreleme işlemlerinde rating,değerlendirme gibi değerlerin azdan çoğa,çoktan aza gibi sıralamasını sağladım
+SearchBar ile arama işlemi gerçekleştirdim.Eğer aranılan query yoksa hata mesajı karşıya çıkardım.Eğer varsa veriyi listeledim.
 ![Ekran Görüntüsü (138)](https://github.com/Cntrk01/FlashApp/assets/98031686/6ffa4319-aed3-43c2-ae0a-04d15ea18a8f)
 ![Ekran Görüntüsü (139)](https://github.com/Cntrk01/FlashApp/assets/98031686/eb851505-dacb-45da-8993-ac069d6c9523)
 ![Ekran Görüntüsü (140)](https://github.com/Cntrk01/FlashApp/assets/98031686/73af0d72-9bae-42a6-afca-eff48052692c)
