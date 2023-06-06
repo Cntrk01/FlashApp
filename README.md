@@ -11,6 +11,8 @@ Filtreleme işlemlerinde rating,değerlendirme gibi değerlerin azdan çoğa,ço
 
 SearchBar ile arama işlemi gerçekleştirdim.Eğer aranılan query yoksa hata mesajı karşıya çıkardım.Eğer varsa veriyi listeledim.
 
+NavigationDrawer kullandım ve kullandığım fragmentleri navigation aracılığla birbirine bağladım
+
 ![Ekran Görüntüsü (138)](https://github.com/Cntrk01/FlashApp/assets/98031686/6ffa4319-aed3-43c2-ae0a-04d15ea18a8f)
 ![Ekran Görüntüsü (139)](https://github.com/Cntrk01/FlashApp/assets/98031686/eb851505-dacb-45da-8993-ac069d6c9523)
 ![Ekran Görüntüsü (140)](https://github.com/Cntrk01/FlashApp/assets/98031686/73af0d72-9bae-42a6-afca-eff48052692c)
