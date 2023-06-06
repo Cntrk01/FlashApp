@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ascRating"
+        app:showAsAction="collapseActionView"
+        android:title="RATİNG(AZ->YÜKSEK)">
+    </item>
+
+    <item
+        android:id="@+id/descRating"
+        app:showAsAction="collapseActionView"
+        android:title="RATİNG(YÜKSEK->AZ)">
+    </item>
+
+    <item
+        android:id="@+id/ascCount"
+        app:showAsAction="collapseActionView"
+        android:title="İNDİRME(AZ->YÜKSEK)">
+    </item>
+
+    <item
+        android:id="@+id/descCount"
+        app:showAsAction="collapseActionView"
+        android:title="İNDİRME(YÜKSEK->AZ)">
+    </item>
+</menu>
